@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Sealed: true
+Main-Class: com.trinamota.main.dcmain
+Class-path: ./libs/httpclient-4.4.1.jar ./libs/httpcore-4.4.1.jar ./libs/json-20171018.jar ./libs/mysql-connector-java-5.1.48.jar ./libs/mysql-connector-java-8.0.11.jar ./libs/servlet-api-2.5.jar ./libs/log4j-1.2.16.jar
+
+
